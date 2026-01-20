@@ -10,4 +10,4 @@ Train:
 Used to train a CNN model to classify digits
 
 digit_cnn:
-The trained CNN model?
+The trained CNN model
